@@ -2,10 +2,10 @@
 Final project of Artificial Intelligence in Automation and Robotics
 
 by: 
-  Miguel Lodewijk Jonas Luhulima  as 3D object designer, video designer 
-  Sugiarto Wibowo                 as 3D object designer, map and world creator on Gazebo    
-  Glenn Ricardo                   as 3D object designer, report writer              
-  Jaselino Kevin                  as Simulator for SLAM and Navigation on Gazebo             
+- Miguel Lodewijk Jonas Luhulima  as 3D object designer, video designer 
+- Sugiarto Wibowo                 as 3D object designer, map and world creator on Gazebo    
+- Glenn Ricardo                   as 3D object designer, report writer              
+- Jaselino Kevin                  as Simulator for SLAM and Navigation on Gazebo             
 
 
 _info_:
